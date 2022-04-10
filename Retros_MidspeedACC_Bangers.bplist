@@ -1,6 +1,9 @@
 {
   "playlistTitle": "Retro's Midspeed/Acc Bangers",
   "playlistAuthor": "Retro",
+  "customData": {
+    "syncURL": "https://raw.githubusercontent.com/WhatisaRyker/Retrosthingthing/main/Retros_MidspeedACC_Bangers.bplist"
+  }
   "songs": [
     {
       "songName": "Pastel Rain",
